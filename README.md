@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm M.Vignani 👋
 
-<!--
-**Vignani05/Vignani05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MBA(Finance) graduate and passionate Data Analyst with 3 years of experience in MIS, reporting, and data analysis.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Excel
+- SQL
+- Python
+- Power BI
+- Machine Learning
+
+## Featured Project
+
+- Multiple Linear Regression – Python Machine Learning Project
+
+## Currently Learning
+
+- Advanced Python
+- Machine Learning
+- Data Analytics
+
+## Connect with Me
+
+- LinkedIn: www.linkedin.com/in/madugula-vignani-00b6a2349
